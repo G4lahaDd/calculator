@@ -1,0 +1,10 @@
+﻿  GraphicsCalc.cpp
+C:\Users\ilya-\source\repos\GraphicsCalc\GraphicsCalc\GraphicsCalc.cpp(100,12): warning C4312: приведение типов: преобразование из "int" в "HMENU" большего размера
+C:\Users\ilya-\source\repos\GraphicsCalc\GraphicsCalc\GraphicsCalc.cpp(276,22): warning C4244: =: преобразование "WCHAR" в "char", возможна потеря данных
+  Создание кода
+C:\Users\ilya-\source\repos\GraphicsCalc\GraphicsCalc\GraphicsCalc.cpp(356): warning C4715: WndProc: значение возвращается не при всех путях выполнения
+  3 of 17 functions (17.6%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  GraphicsCalc.vcxproj -> C:\Users\ilya-\source\repos\GraphicsCalc\x64\Release\GraphicsCalc.exe

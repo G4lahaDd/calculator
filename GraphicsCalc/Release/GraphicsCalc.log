@@ -1,0 +1,2 @@
+﻿MSVCRT.lib(exe_winmain.obj) : error LNK2001: неразрешенный внешний символ _WinMain@16.
+C:\Users\ilya-\source\repos\GraphicsCalc\Release\GraphicsCalc.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
